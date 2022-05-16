@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Enemy
+  - PalletB
+  - PalletW
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Ground
+  - Wall
+  - Player
+  - Enemy
+  - CharacterCollBlocker
+  - BG
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: BG
+    uniqueID: 2395663921
+    locked: 0
+  - name: Player
+    uniqueID: 1163550985
+    locked: 0
+  - name: Wall
+    uniqueID: 1300472595
+    locked: 0
+  - name: Enemy
+    uniqueID: 1767163019
+    locked: 0
+  - name: Ground
+    uniqueID: 730551033
+    locked: 0
+  - name: Obstacle
+    uniqueID: 2378691557
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
